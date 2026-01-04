@@ -90,11 +90,4 @@ jupyter notebook Fake_News_Detection.ipynb
 - Some misclassifications are normal (no model is 100% accurate)
 - Always verify important news from multiple sources
 
-## Project Status
-
-Ready for academic presentation and viva examination.
-
----
-
-**Created for**: Machine Learning Course Project  
-**Purpose**: Educational and Learning
+## Created by Diksha Bhandari
